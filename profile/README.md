@@ -2,19 +2,12 @@
 _Simplify maintaining your runtime configurations and setup across devices._
 
 `__rc` uses a modular approach to
-maintianing and using your .RC files. When I was a contractor I frequently had
+spinning up, maintianing and using your `.rc` files. When I was a contractor I frequently had
 to setup a new computer porting over my helper functions I created.
 
-## Exports
-**collections**
-- functions
-- aliases
-- ps_config
-
- **Binaries**
-- `sourceShellScripts` ....  used to read functions from functions folder
-
 ## Install
+1. Clone this repository into your home directory.
+   __note__ This repository will save as a hidden folder named `.__rc`
 1. Source `.__rc/.bashrc` inside of your `.bash_profile` or `.bashrc`
 
 ```bash
