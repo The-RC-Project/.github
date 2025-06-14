@@ -5,7 +5,7 @@ would write. I also wanted a way to easliy share my useful aliases and functions
 
 # When did this project start
 
-unoffically in 2018 as cadet (cdt)
+unoffically in 2018
 
 # Who is maintaining this project
 [@christophermca](https://github.com/orgs/The-RC-Project/people/christophermca)
