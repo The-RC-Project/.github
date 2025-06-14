@@ -47,7 +47,7 @@ will keep session consistant between login and interactive sessions.
 ```
 # Usage
 
-```
+```bash
 [[ -f "$HOME/.__rc/bin/sourceShellScripts" ]] && source "$HOME/.__rc/bin/sourceShellScripts"
 
 # Create list of function names to load in shell
