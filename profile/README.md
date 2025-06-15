@@ -12,4 +12,4 @@ unoffically in 2018
 
 # Read more
 
-[docs](docs/main.md)
+[docs](../docs/main.md)
