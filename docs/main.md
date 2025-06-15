@@ -1,1 +1,1 @@
-[Usage](./usage)
+[Usage](usage.md)
